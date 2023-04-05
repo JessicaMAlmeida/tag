@@ -1,0 +1,39 @@
+h1{border: dotted;
+    color: rgb(237, 237, 245);
+text-align: center;
+}
+
+body{
+padding: 40px;
+
+}
+
+div{
+    display: inline-block;
+    width: 1000px;
+    height: 1000px;
+  border-style: double;
+  border-width: 5px;
+  border-color: blueviolet;
+  background-image: url(https://i.pinimg.com/originals/5a/73/d2/5a73d22fd28b42c787b247ae13c6650c.jpg);
+background-size: cover;
+text-align: center;
+padding: 100px;
+
+}
+
+p{
+    padding-top: 20px;
+    color: white;
+    font-size: 80px;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+
+span{
+
+    margin: 10px;
+    width: 400px;
+}
+

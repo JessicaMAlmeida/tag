@@ -1,0 +1,40 @@
+*{text-align: center;}
+
+.div1{
+text-align: center;
+font-style: italic;}
+
+.cerebro{ display:inline-block;
+    overflow: hidden;}
+
+.titulocerebro{
+text-align: center;;
+overflow: hidden;
+font-size: large;}
+
+.imagemcerebro{float: left; width: -200%; padding: 1px; margin: 0px 0px px 0; }
+
+ .
+   
+  .div2{font-size: medium;
+text-align: center; 
+position: relative;   
+}
+p{font-size: larger;}
+
+.quebra2{float: left; width: -200%; padding: 1px; margin: 0px 0px px 0; }
+.quebra3{ width: -200%; padding: 1px; margin: 0px 0px px 0;height:800%}
+.livro2{float: left; width: -200%; padding: 1px; margin: 0px 0px px o;}
+
+.livro3{ width: 0%; padding: 10px; margin: 0px 0px px 0;height:800%; text-align: right;}
+
+
+
+
+
+
+
+
+
+
+
